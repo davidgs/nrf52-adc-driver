@@ -1,0 +1,15 @@
+# Package: libs/my_driver/myadc
+
+syscfg.defs:
+    ADC_0:
+        description: 'TBD'
+        value:  1
+    ADC_0_RESOLUTION:
+        description: 'TBD'
+        value: 'SAADC_CONFIG_RESOLUTION'
+    ADC_0_OVERSAMPLE:
+        description: 'TBD'
+        value: 'SAADC_CONFIG_OVERSAMPLE'
+    ADC_0_INTERRUPT_PRIORITY:
+        description: 'TBD'
+        value: 'SAADC_CONFIG_IRQ_PRIORITY'
